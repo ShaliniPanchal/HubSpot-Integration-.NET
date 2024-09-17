@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HubSpot V3", "HubSpot V3.csproj", "{A65ED522-2F89-4B7E-8E75-B4333BA0A1D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65ED522-2F89-4B7E-8E75-B4333BA0A1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65ED522-2F89-4B7E-8E75-B4333BA0A1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65ED522-2F89-4B7E-8E75-B4333BA0A1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65ED522-2F89-4B7E-8E75-B4333BA0A1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D871D987-47DA-4AA7-BCC0-EC92C7E99B5D}
+	EndGlobalSection
+EndGlobal
